@@ -2,3 +2,5 @@
 This repo is for an interactive emoji that can change eye color and mouth movement with code in different languages:
 java
 javascript
+
+Use MOUSE to move eyes, change eye color, and mouth shapes.
